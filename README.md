@@ -1,5 +1,7 @@
 # Machine learning model to predict the outcome of soccer matches
 
+Used FIFA player and team statistics to predict the outcome of European League soccer matches. Comparing the models predictions to the bookies odds of the predicted result as a betting trigger yielded a 9.42% annual ROI on the test data.
+
 ![alt text](https://github.com/Ziggaman/Soccer-Match-Prediction/blob/master/Tableau/Coverpage.png)
 
 # Countries leagues analyzed
